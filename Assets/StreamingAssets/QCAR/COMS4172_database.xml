@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="vortex" size="2.000000 6.000000" />
+    <ImageTarget name="stones" size="9.312500 6.518750" />
+    <ImageTarget name="tarmac" size="5.000000 3.500000" />
+    <CylinderTarget name="redbull_can" sideLength="13.400000"/>
+  </Tracking>
+</QCARConfig>
